@@ -1,0 +1,7 @@
+
+
+<ul class="nav nav-pills btn">
+	{{# page.tags?to_tags }}
+	  {{> tags_list }}
+	{{/ page.tags?to_tags }}
+</ul>

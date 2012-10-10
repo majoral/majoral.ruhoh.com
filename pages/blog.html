@@ -1,0 +1,29 @@
+---
+description:
+---
+
+<div class="span9">
+
+	{{# db.posts.collated }}
+	  {{> posts_collate }}
+	{{/ db.posts.collated }}
+
+</div>
+
+<div class="span3">
+	<h3>Temas</h3>
+	<ul class="tag_box inline">
+		{{# categories }}
+		  {{> categories_list }}
+		{{/ categories }}
+	</ul>
+	<hr>
+	<h3>Etiquetas</h3>
+	<ul class="tag_box inline">
+		{{# tags }}
+		  {{> tags_list }}
+		{{/ tags }}
+	</ul>
+</div>
+
+

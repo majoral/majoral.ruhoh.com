@@ -1,0 +1,18 @@
+---
+comments: true
+date: 2008-05-30 21:41:16
+layout: post
+slug: qr-code
+title: qr-code
+wordpress_id: 543
+categories:
+- informatica
+tags:
+- qr-code
+
+---
+
+![](http://encode.i-nigma.com/QRCode/img.php?d=URL%3Ahttp%3A%2F%2Fpere.majoral.es&c=http%3A%2F%2Fpere.majoral.es&s=4)
+
+
+![](http://encode.i-nigma.com/QRCode/img.php?d=BEGIN%3AVCARD%0AN%3APere%20MAJORAL%0ATEL%3A971100110%0AEMAIL%3Apere%40majoral.es%0AEND%3AVCARD&c=Pere%20MAJORAL&s=4)

@@ -1,0 +1,31 @@
+---
+comments: true
+date: 2010-01-16 21:30:07
+layout: post
+slug: droplr
+title: 'Droplr '
+wordpress_id: 1300
+categories:
+- informatica
+tags:
+- droplr
+- mac
+
+---
+
+
+[![droplr](http://dl.dropbox.com/u/2747437/img/droplr.png)](http://dl.dropbox.com/u/2747437/img/droplr.png)
+
+Droplr es una aplicación para Mac que permite compartir archivos de forma sencilla y rápida.
+
+Lo que hace esta aplicación es cargar los archivos que deseemos a un servidor remoto y proporcionarnos un URL para descargar los archivos.
+
+Compartir un archivo es tan sencillo como arrastrarlo al icono de Droplr en la barra de menú o el Dock, automáticamente el archivo será enviado al servidor remoto y aparecerá el URL para descargarlo o por compartirlo por cualquier medio o directamente por Twitter. Otro servicio que proporciona la aplicación es la posibilidad de crear notas y cargarlas al servidor remoto.
+
+Por el momento la aplicación y el servicio se encuentran en etapa beta y son gratuitos. No esta claro si en el futuro planean cargar por el servicio pero en lo personal creo que buscarán otras forma de generar ingresos, por ejemplo publicidad dentro de la aplicación ya que si empiezan a cobrar muchos usuarios preferiremos seguir usando servidores gratuitos.
+
+Pueden descargar la aplicación directamente del sitio [web de Droplr](http://droplr.com/) y abrir una cuenta para empezar
+
+[![](http://dl.dropbox.com/u/2747437/img/dropl2.png)](http://dl.dropbox.com/u/2747437/img/dropl2.png)
+
+vía [Droplr | RedMallorca LAB](http://lab.redmallorca.com/droplr/).

@@ -1,0 +1,22 @@
+<section class="row-fluid">
+	<article>
+		<header>
+			<hgroup>
+				<h2>Novedades:</h2>
+			</hgroup>
+		</header>
+		{{# posts_latest }}
+			<div class="row-fluid cats">
+				<div>
+					<h5>
+						<a href="{{url}}"><i class="icon-chevron-right"></i> {{title}}</a>
+						<span class="hidden-phone" style="float:right">
+							<script type="text/javascript">document.write(moment("{{ date }}", "YYYY-MM-DD").fromNow());</script>
+						</span>
+					</h5>
+				</div>
+
+			</div>
+		{{/ posts_latest }}
+	</article>
+</section>	

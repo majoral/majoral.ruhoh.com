@@ -1,0 +1,63 @@
+---
+layout : default
+---
+<!--
+<div class="page-header">
+  <h3>{{ page.title }} {{# page.tagline }} <small>{{ . }}</small>{{/ page.tagline }}</h3>
+</div>
+-->
+<div class="row-fluid">
+  
+  <div class="span12">
+
+    <h3 class="hidden-phone">{{ page.title }} {{# page.tagline }} <small>{{ . }}</small>{{/ page.tagline }}</h3>
+    
+    <h5 class="visible-phone">{{ page.title }} {{# page.tagline }} <small>{{ . }}</
+    small>{{/ page.tagline }}</h5>
+    
+    <ul class="breadcrumb">
+      <li class="hidden-phone"><a href="/">Inicio</a> <span class="divider">/</span></li>
+
+      {{# page.categories?to_categories }}
+          <li>
+            <a href="{{ url }}">{{ name }}</a> 
+            <span class="divider">/</span>
+          </li>
+      {{/ page.categories?to_categories }}
+
+      
+      <li class="active">
+        <div class="date hidden-phone"><span><script type="text/javascript">document.write(moment("{{ page.date }}", "YYYY-MM-DD").format("dddd, LL"));</script></span></div>
+         <div class="date visible-phone"><span><script type="text/javascript">document.write(moment("{{ page.date }}", "YYYY-MM-DD").format("L"));</script></span></div>      
+      </li>
+    </ul>
+    {{{ content }}} 
+    <div class="pagination pagination-centered">
+      <ul>
+        {{# page?previous }}
+          <li class="prev"><a href="{{ url }}" title="{{ title }}">&larr; Previo</a></li>
+        {{/ page?previous }}
+        {{^ page?previous }}
+          <li class="prev disabled"><a>&larr; Previo</a></li>
+        {{/ page?previous }}
+
+          <li><a href="/archivo">Archivo</a></li>
+          
+          {{# page.tags?to_tags }}
+            <li class="hidden-phone"><a href="{{ url }}">{{ name }}</a></li>
+          {{/ page.tags?to_tags }}
+
+        {{# page?next }}
+          <li class="next"><a href="{{ url }}" title="{{ title }}">Siguiente &rarr;</a></li>
+        {{/ page?next }}
+        {{^ page?next }}
+          <li class="next disabled"><a>Siguiente &rarr;</a>
+        {{/ page?next }}
+      </ul>
+    </div>
+    <hr>
+    {{{ comments }}}  
+  </div>
+</div>
+
+ 
