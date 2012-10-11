@@ -25,7 +25,7 @@ No tenia ni idea del origen de esta canción y mira que la he cantado/escuchado 
 
 La triste historia de una célebre canción...
 
-La canción habla del primer alemán que murió intentando atravesar el muro de Berlín, Peter Fechter, un obrero de la construcción de 18 años, intentó huir junto con un amigo y compañero de trabajo, Helmut Kulbeik. Tenían pensado esconderse en el taller de un carpintero, cerca del muro, y, tras observar a los guardias de la "frontera" alejándose, saltar por una ventana hacia el llamado "corredor de la muerte", atravesarlo corriendo y saltar por el muro cerca del Checkpoint Charlie, a Berlín Oeste.
+La canción habla del primer alemán que murió intentando atravesar el muro de Berlín, Peter Fechter, un obrero de la construcción de 18 años, intentó huir junto con un amigo y compañero de trabajo, Helmut Kulbeik. Tenían pensado esconderse en el taller de un carpintero, cerca del muro, y, tras observar a los guardias de la "frontera" alejándose, saltar por una ventana hacia el llamado "corredor de la muerte", atravesarlo corriendo y saltar por el muro cerca del Checkpoint Charlie, a Berlín Oeste.
 
 [![](http://1.bp.blogspot.com/-_8Pnd3lr3Is/Tne9T33bYlI/AAAAAAAAAlM/gAqhaRC2ZLQ/s200/image001.jpg)](http://1.bp.blogspot.com/-_8Pnd3lr3Is/Tne9T33bYlI/AAAAAAAAAlM/gAqhaRC2ZLQ/s1600/image001.jpg)
 

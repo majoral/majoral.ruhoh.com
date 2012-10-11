@@ -6,8 +6,10 @@ author :
   github : majoral
   twitter : peremajoral
   feedburner : peremajoral
+  gravatar: bbe4f374067b9f82efddc49721f3151d
 
 navigation :
   - blog.html
   - about.md
+  - contacto.md
   

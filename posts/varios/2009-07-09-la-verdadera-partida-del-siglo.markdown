@@ -41,13 +41,13 @@ Aquí os dejo aquella mítica partida, por si os animáis a reproducirla delante
 	 13.bxc3/Cxe4! 
 	 14.Axe7/Db6 
 	 15.Ac4/Cxc3! 
-	 16.Ac5/Tfe8%2B 
+	 16.Ac5/Tfe8
 	 17.Rf1/Ae6!! 
-	 18.Axb6/Axc4%2B 
-	 19.Rg1/Ce2%2B 
-	 20.Rf1/Cxd4%2B 
-	 21.Rg1/Ce2%2B 
-	 22.Rf1/Cc3%2B 
+	 18.Axb6/Axc4
+	 19.Rg1/Ce2
+	 20.Rf1/Cxd4
+	 21.Rg1/Ce2
+	 22.Rf1/Cc3
 	 23.Rg1/axb6 
 	 24.Db4/Ta4 
 	 25.Dxb6/Cxd1 
@@ -60,13 +60,13 @@ Aquí os dejo aquella mítica partida, por si os animáis a reproducirla delante
 	 32.Db8/b5 
 	 33.h4/h5 
 	 34.Ce5/Rg7 
-	 35.Rg1/Ac5%2B 
-	 36.Rf1/Cg3%2B 
-	 37.Re1/Ab4%2B 
-	 38.Rd1/Ab3%2B 
-	 39.Rc1/Ce2%2B 
-	 40.Rb1/Cc3%2B 
-	 41.Rc1/Tc2%2B%2B.
+	 35.Rg1/Ac5
+	 36.Rf1/Cg3
+	 37.Re1/Ab4
+	 38.Rd1/Ab3
+	 39.Rc1/Ce2
+	 40.Rb1/Cc3
+	 41.Rc1/Tc2
 >
 
  [1]: http://en.wikipedia.org/wiki/The_Game_of_the_Century_%28chess%29

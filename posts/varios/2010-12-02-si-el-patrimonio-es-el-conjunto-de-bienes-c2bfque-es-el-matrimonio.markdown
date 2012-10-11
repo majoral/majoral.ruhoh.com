@@ -2,7 +2,7 @@
 comments: true
 date: 2010-12-02 21:48:22
 layout: post
-slug: si-el-patrimonio-es-el-conjunto-de-bienes-%c2%bfque-es-el-matrimonio
+slug: si-el-patrimonio-es-el-conjunto-de-bienes-que-es-el-matrimonio
 title: Si el patrimonio es el conjunto de bienes, ¿qué es el matrimonio?
 wordpress_id: 12097
 categories:
