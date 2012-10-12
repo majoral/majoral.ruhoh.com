@@ -2,7 +2,7 @@
 ---
 title: 
 date: '2012-10-10'
-description: Truco para escribir con tildes de forma más rápida desde tu iPad
+description: Truco para escribir con tildes rápido desde tu iPad
 categories:
 - informatica 
 tags: 
@@ -10,7 +10,7 @@ tags:
 
 
 ---
-### Truco para escribir con tildes de forma más rápida desde tu iPad
+### Truco para escribir con tildes rápido desde tu iPad
 
 Ante la buena acogida que hemos tenido mediante diferentes vías en la publicación de **pequeños trucos para los recién llegados a iOS**, como el que publicamos acerca de mandar más de [cinco fotos en un e-mail][1] sin necesidad de jailbreak, hoy os contaremos **cómo escribir palabras con tildes de una forma rápida y sencilla** (solo válido para el teclado virtual del iPad).
 

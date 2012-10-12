@@ -4,7 +4,11 @@
       "kickstrap.css",
       "estilo.css"
     ],
-   
+    "index_layout" : [
+      "kickstrap.css",
+      "estilo.css"
+    ],
+
     "widgets" : {
       "google_prettify" : "twitter-bootstrap.css"
     }
@@ -13,6 +17,10 @@
 
   "javascripts" : {
     "default" : [
+    "moment.js",
+    "es.js"
+    ],
+    "index_layout" : [
     "moment.js",
     "es.js"
     ]

@@ -1,11 +1,11 @@
 ---
-title : Acerca de 
+title : About 
 
 ---
 
 ## Acerca de 
 
-Pere Majoral es cinturón negro 2 dan de Aikido por la Feferación Española de Judo y dd.aa. y 3 dan por la fundación Aikikai de Japón, otorgado por YAMADA Yoshimitsu Sensei, 8 dan shihan, responsable del dojo [New York Aikikai](http://www.nyaikikai.com/)
+Pere Majoral es cinturón negro 2 dan de Aikido por la Federación Española de Judo y dd.aa. y 3 dan por la fundación Aikikai de Japón, otorgado por YAMADA Yoshimitsu Sensei, 8 dan shihan, responsable del dojo [New York Aikikai](http://www.nyaikikai.com/)
         
 Es profesor titulado de Aikido reconocido por la FEJ y DDAA y es el instructor y responsable del Área de Aikido del dojo [Renshinkan][mapa] de Manacor (Mallorca)
 

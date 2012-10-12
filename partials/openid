@@ -1,0 +1,6 @@
+<!-- OpenID Delegate -->
+  <link href='http://www.myopenid.com/server' rel='openid.server'>
+  <link href='http://peremajoral.myopenid.com/' rel='openid.delegate'>
+  <link href='http://peremajoral.myopenid.com' rel='openid2.local_id'>
+  <link href='http://www.myopenid.com/server' rel='openid2.provider'>
+  <meta http-equiv="X-XRDS-Location" ycontent="http://www.myopenid.com/xrds?username=peremajoral.myopenid.com" />
