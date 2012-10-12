@@ -7,29 +7,19 @@ title: Video Exhibicion Endo Sensei
 wordpress_id: 1430
 categories:
 - aikido
+- videos
 tags:
 - Endo Sensei
+- videos
+
 ---
 
 
-![](http://dl.dropbox.com/u/1551408/img/pere_mail.jpeg) **
-** [**http://pere.majoral.es**](http://pere.majoral.es/contacto)
+<iframe width="560" height="315" src="http://www.youtube.com/embed/J6XjO0qcoOI" frameborder="0" allowfullscreen></iframe>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-[ via email](http://majoral.posterous.com) desde [Pere Majoral](http://majoral.posterous.com/video-exhibicion-endo-sensei)
+[ via email](http://majoral.posterous.com) desde [http://majoral.posterous.com](http://majoral.posterous.com/video-exhibicion-endo-sensei)
 
 
 

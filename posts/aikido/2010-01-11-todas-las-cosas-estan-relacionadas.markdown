@@ -7,8 +7,10 @@ title: Todas las cosas estan relacionadas
 wordpress_id: 1079
 categories:
 - aikido
+- citas
 tags:
 - osensei
+- citas
 
 ---
 
@@ -18,6 +20,6 @@ tags:
 
 >El pasado, presente, y futuro están todos contenidos en la fuerza de la vida.
 
-El Universo surgió y se desarrolló de un principio, y nosotros evolucionamos a través de un proceso óptimo de unificación y armonización
+>El Universo surgió y se desarrolló de un principio, y nosotros evolucionamos a través de un proceso óptimo de unificación y armonización
 
 Morihei Ueshiba.- El Arte de la Paz

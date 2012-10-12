@@ -17,10 +17,8 @@ Pulsa en la imagen para descargar el documento.
 
 [Descarga directa][grande]
 
-[mini]: http://dropproxy.com/u/5A/aikido/aikido-manual_thumb.jpg
+[mini]: http://dl.majoral.es/aikido/aikido-manual_thumb.jpg
 [grande]: http://dropproxy.com/u/5A/aikido/aikido-manual.pdf
-
-
 
 [**Pere Majoral**](http://pere.majoral.es/aikido-del-maestro-kishomaru-ueshiba/)
 

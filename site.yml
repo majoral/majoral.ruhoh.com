@@ -1,5 +1,6 @@
 title : Pere Majoral 
 tagline: Pere Majoral 
+url: http://aikido.majoral.es
 author :
   name : Pere Majoral
   email : pere@majoral.es
@@ -10,6 +11,6 @@ author :
 
 navigation :
   - blog.html
-  - about.md
+  - acerca.md
   - contacto.md
   

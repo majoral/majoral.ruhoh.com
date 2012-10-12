@@ -1,0 +1,11 @@
+
+<footer>
+	<hr>
+	<p>&copy; {{ site.author.name }} 2012
+		<span class="hidden-phone">
+			with help from
+			 <a href="http://ruhoh.com" target="_blank" title="The Definitive Technical Blogging Framework">ruhoh</a>
+		  and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+		</span>
+	</p>
+</footer>

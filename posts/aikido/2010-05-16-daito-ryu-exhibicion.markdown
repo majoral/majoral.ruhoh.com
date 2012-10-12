@@ -17,4 +17,7 @@ tags:
 
 En el video se puede ver la exhibicion del Aikikai Hombu dojo y al final sale la exhibición de otra de las escuelas de la Daito Ryu con una coreografía en cámara lenta mostrando distintas técnicas y contratécnicas.
 
-[youtube]http://www.youtube.com/watch?v=saI5Ob3gTAM[[/youtube]
+<iframe width="420" height="315" src="http://www.youtube.com/embed/saI5Ob3gTAM" frameborder="0" allowfullscreen></iframe>
+
+[youtube](http://www.youtube.com/watch?v=saI5Ob3gTAM)
+
