@@ -6,14 +6,13 @@ slug: el-significado-y-traduccion-de-carpe-diem
 title: El significado y traducción de "Carpe Diem"
 wordpress_id: 14593
 categories:
-- varios
 - citas
 Tags:
 - citas
 
 ---
 
-[![](http://1.bp.blogspot.com/_NcSC_s5R_OQ/TSI4GVyM_DI/AAAAAAAAAfk/CCWHwotMA8w/s200/Carpe_Diem_by_Rheydo.jpg)](http://1.bp.blogspot.com/_NcSC_s5R_OQ/TSI4GVyM_DI/AAAAAAAAAfk/CCWHwotMA8w/s1600/Carpe_Diem_by_Rheydo.jpg)
+![](http://d.pr/i/NwKm+)
 
 Leyendo otros blogs de curiosidades me he encontrado esta entrada que quiero compartir con vosotros, por el significado de la expresión en sí misma.
 
@@ -34,28 +33,14 @@ Y su traducción:
 > No busques el final que a ti o a mí nos tienen reservado los dioses (que por otra parte es sacrilegio saberlo), oh Leuconoé, y no te dediques a investigar los cálculos de los astrólogos babilonios. ¡Vale más sufrir lo que sea! Puede ser que Júpiter te conceda varios inviernos, o puede ser que éste, que ahora golpea al mar Tirreno contra las rocas de los acantilados, sea el último; pero tú has de ser sabia, y, mientras, filtra el vino y olvídate del breve tiempo que queda amparándote en la larga esperanza. Mientras estamos hablando, he aquí que el tiempo, envidioso, se nos escapa: **aprovecha el día de hoy**, y no pongas de ninguna manera tu fe ni tu esperanza en el día de mañana.
 
 
-Por lo tanto, su gran significado es "aprovecha el día presente". ¡Qué gran consejo!
+Por lo tanto, su gran significado es "aprovecha el día presente". 
+
+¡Qué gran consejo!
 
 Vía: [](http://www.erroreshistoricos.com/curiosidades-historicas/origen/343-origen-significado-y-traduccion-de-carpe-diem.html)[http://www.erroreshistoricos.com](http://www.erroreshistoricos.com)
 
-
-
-
-
-
-
 via [El significado y traducción de "Carpe Diem"](http://www.ballesterismo.com/2011/01/el-significado-y-traduccion-de-carpe.html)
 
-
-
-
-
-
-
-
-
-
-![](https://blogger.googleusercontent.com/tracker/1680777770694179210-8797069448456702707?l=www.ballesterismo.com)
 
 
 

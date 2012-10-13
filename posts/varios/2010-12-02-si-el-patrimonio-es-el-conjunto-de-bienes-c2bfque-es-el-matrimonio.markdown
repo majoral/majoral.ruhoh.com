@@ -10,15 +10,13 @@ categories:
  - citas
 
 ---
-
-[Si el patrimonio es el conjunto de bienes, ¿qué es el matrimonio?](http://feedproxy.google.com/~r/HistoriasDeLaHistoria/~3/pzXMv7D9WG4/)
-
-				 
-Historias de la Historia
 					 
-La respuesta, según el dicho popular, es el conjunto de males **(“si el patrimonio es el conjunto de bienes, el matrimonio es el conjunto de males”)**. Y vuelvo a repetir que sólo es un dicho popular, no mi opinión. Mil veces que naciese, mil veces me casaría… **y con la misma (que tiene más mérito)**.
+La respuesta, según el dicho popular, es el conjunto de males 
+>**“si el patrimonio es el conjunto de bienes, el matrimonio es el conjunto de males”**.
 
-[![](http://lh3.ggpht.com/_-iuOzFTAWds/TPZRYi-6kkI/AAAAAAAACvQ/RTOfQKEB3PM/s400/matrimonio.gif)](http://picasaweb.google.com/lh/photo/1qxskTZdTWgh-sSFklhULV5XfFSfbdRP_9aezQObccE?feat=embedwebsite)
+Y vuelvo a repetir que sólo es un dicho popular, no mi opinión. Mil veces que naciese, mil veces me casaría… **y con la misma (que tiene más mérito)**.
+
+![](http://d.pr/i/gr9h+)
 
 El matrimonio visto por literatos a lo largo de la Historia (advierto que en este post las mujeres se van a llevar la peor parte):
 
@@ -34,10 +32,9 @@ El matrimonio visto por literatos a lo largo de la Historia (advierto que en est
   * **Hipólito Taine**: “Los hombres y las mujeres se estudian tres semanas, se aman tres meses, se pelean tres años, se toleran treinta años y sus hijos vuelven a empezar”.
   * **Leon Tolstoi**: ” La vida conyugal es una barca que lleva a dos personas en un mar tormentoso; si uno de los dos hace un movimiento brusco la barca se hundirá”.
 
-> No os enfadéis chicas. Es sólo la opinión, a lo largo de la Historia,  de algunos escritores que, por el hecho de serlo, no significa que tenga razón.
 
 Fuente: Intimidades de la Historia – Carlos Fisas  
 Imagen: [elperello](http://elperello.blogspot.com/2010/08/contrato-de-matrimonio-yo-mayor-de-edad.html)
 
-[Si el patrimonio es el conjunto de bienes, ¿qué es el matrimonio?](http://historiasdelahistoria.com/2010/12/02/si-el-patrimonio-es-el-conjunto-de-bienes-%c2%bfque-es-el-matrimonio/) escrito por **Javier Sanz** en: [Historias de la Historia](http://historiasdelahistoria.com)  
+Fuente: [Si el patrimonio es el conjunto de bienes, ¿qué es el matrimonio?](http://historiasdelahistoria.com/2010/12/02/si-el-patrimonio-es-el-conjunto-de-bienes-%c2%bfque-es-el-matrimonio/) escrito por **Javier Sanz** en [Historias de la Historia](http://historiasdelahistoria.com)  
 

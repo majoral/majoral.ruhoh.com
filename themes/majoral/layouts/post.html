@@ -15,6 +15,8 @@ layout : default
     <h4 class="visible-phone">{{ page.title }} {{# page.tagline }} <small>{{ . }}</
     small>{{/ page.tagline }}</h4>
     
+    {{> read_later }}
+    
     <ul class="breadcrumb">
       <li class="hidden-phone"><a href="/">Inicio</a> <span class="divider">/</span></li>
 
@@ -30,12 +32,8 @@ layout : default
         <div class="date hidden-phone"><span><script type="text/javascript">document.write(moment("{{ page.date }}", "YYYY-MM-DD").format("dddd, LL"));</script></span></div>
          <div class="date visible-phone"><span><script type="text/javascript">document.write(moment("{{ page.date }}", "YYYY-MM-DD").format("L"));</script></span></div>      
       </li>
-      <li>
-        <span class="divider">/</span>
-        {{> read_later }}
-      </li>
-
     </ul>
+
     {{{ content }}} 
     <div class="pagination pagination-centered">
       <ul>
