@@ -1,10 +1,16 @@
----
-title:
-date: 
-description:
-categories:
-tags: []
+<!-- 
+  title: 
+  theme: spacelab
+-->
 
-type: draft
+---  
+title:  
+description:  
+date:   
+comments: true  
+layout: post  
+categories:  
+- aikido  
+tags:  
 
----
+---  

@@ -1,17 +1,11 @@
 ---
 layout : default
 ---
-<!--
-<div class="page-header">
-  <h3>{{ page.title }} {{# page.tagline }} <small>{{ . }}</small>{{/ page.tagline }}</h3>
-</div>
--->
-<div class="row-fluid">
-  
-  <div class="span12">
 
+<div class="row-fluid">  
+  <div class="span12">
     <h3 class="hidden-phone">{{ page.title }} {{# page.tagline }} <small>{{ . }}</small>{{/ page.tagline }}</h3>
-    
+   
     <h4 class="visible-phone">{{ page.title }} {{# page.tagline }} <small>{{ . }}</
     small>{{/ page.tagline }}</h4>
     
@@ -35,6 +29,7 @@ layout : default
     </ul>
 
     {{{ content }}} 
+    
     <div class="pagination pagination-centered">
       <ul>
         {{# page?previous }}
@@ -60,7 +55,7 @@ layout : default
     </div>
     <hr>
     {{{ comments }}}  
-  </div>
+  </div>  
 </div>
 
  

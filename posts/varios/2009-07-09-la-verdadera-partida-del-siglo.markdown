@@ -13,8 +13,9 @@ tags:
 
 ---
 
-### LA VERDADERA PARTIDA DEL SIGLO (1956)
+## LA VERDADERA PARTIDA DEL SIGLO (1956)
 
+LA ALDEA IRREDUCTIBLE: LA VERDADERA PARTIDA DEL SIGLO (1956) [http://bit.ly/oBhap](http://bit.ly/oBhap)
  
 El 17 de Octubre de 1956 tuvo lugar en en el torneo «Rosenwald Memorial» la que más tarde se denominó "La Partida del Siglo" y en la que se batieron frente a un tablero de ajedrez, [Donald Byrne][3], el Maestro más laureado de toda la década en América y un joven desconocido de tan sólo 13 años... Bobby Fischer.
 41 Movimientos de maestría y genialidad en un chaval al que los muchos ojos puestos en él, no le intimidaron lo más mínimo... y un último movimiento de torre que puso punto y final a una leyenda como Byrne, para dar comienzo a otra... Fischer.
@@ -24,7 +25,7 @@ Una partida que incluso ha sido convertida en arte por algún que otro artista c
   
 Aquí os dejo aquella mítica partida, por si os animáis a reproducirla delante de un tablero, incluyendo su maravilloso movimiento número 17, donde Fischer lo arriesgó todo sacrificando la dama y tomando a partir de ahí, el control de la partida: 
  
-
+>
 	  1.Cf3/Cf6
 	  2.c4/g6
 	  3.Cc3/Ag7
@@ -66,9 +67,7 @@ Aquí os dejo aquella mítica partida, por si os animáis a reproducirla delante
 	 39.Rc1/Ce2
 	 40.Rb1/Cc3
 	 41.Rc1/Tc2
-
-Fuente: [LA ALDEA IRREDUCTIBLE](http://bit.ly/oBhap)
-
+>
 
  [1]: http://en.wikipedia.org/wiki/The_Game_of_the_Century_%28chess%29
  [2]: http://ajedrezespectacular.net/
