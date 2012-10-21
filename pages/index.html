@@ -4,8 +4,24 @@ title: Inicio
 description:
 ---
 
-{{> clases_de_aikido }}
-{{> novedades }}
+
+<section class="row-fluid">
+<div class="span7"
+	{{> acercade }}
+</div>
+
+<div class="span5"
+	{{> clases }}
+	<hr>
+	{{> lafoto }}
+</div>		            		
+</section>
+<hr>
+<section class="row-fluid">
+<div class="span12">
+	{{> novedades }}
+</div>
+</section>
 
 <div class="hcard hidden">
 	{{> hcard }}

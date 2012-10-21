@@ -3,7 +3,7 @@
 
 RuhohSpec: '1.0'
 theme : majoral
-production_url : http://aikido.majoral.es
+production_url : http://pere.majoral.es
 
 posts:
   permalink: /:title/
