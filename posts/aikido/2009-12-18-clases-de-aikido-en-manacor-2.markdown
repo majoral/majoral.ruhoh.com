@@ -2,7 +2,7 @@
 comments: true
 date: 2009-12-18 12:34:08
 layout: post
-slug: clases-de-aikido-en-manacor
+slug: clases-de-aikido-en-manacor-2
 title: Clases de Aikido en Manacor
 wordpress_id: 741
 categories:
