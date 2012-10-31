@@ -3,6 +3,17 @@
   <head>
     {{> header }}
     {{> openid }}
+    
+    <!-- Put the following javascript before the closing </head> tag. -->
+<script>
+  (function() {
+    var cx = '010998044677288863192:vb9smno55gs';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.es/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
   </head>
   <body>
     {{> body }}
