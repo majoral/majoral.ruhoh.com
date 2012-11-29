@@ -7,4 +7,5 @@
     	<h4>Los miércoles de 19:45 a 21:15</h4>
     	<h4>y los sábados de 17:00 a 19:00</h4> 	
     	<a href="/contacto" class="btn btn-inverse pull-right">Más Información</a>
+    	<br>
 
