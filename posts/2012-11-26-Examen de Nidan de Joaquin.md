@@ -12,6 +12,8 @@ tags:
 
 ---  
 
+![image](http://d.pr/i/nUfs+)  
+
 El pasado domingo se celebraron en el [IES] de Sineu los exámenes de Aikido para el pase de grados organizados por la Federación Española de Judo y deportes Asociados.   
 
 Entre los muchos participantes convocados se presentaba **[Joaquin]**, alumno de nuestro Dojo [Renshinkan] de Manacor.
